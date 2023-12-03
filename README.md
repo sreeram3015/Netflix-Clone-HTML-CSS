@@ -1,5 +1,7 @@
 # Netflix Clone
 
+![Netflix Clone](https://sreeram3015.github.io/Netflix-Clone-HTML-CSS/)
+
 A static website project that serves as a simplified clone of Netflix, created for educational purposes using HTML and CSS. The project includes responsive design principles for various screen sizes, providing a seamless viewing experience.
 
 ## Table of Contents
